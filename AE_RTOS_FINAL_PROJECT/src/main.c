@@ -548,59 +548,24 @@ static  void  Ex_Movement_Task (void  *p_arg)
        OSMutexPend(&movementmut, 0, OS_OPT_PEND_BLOCKING, (CPU_TS *)0, &err);
        if (sld == 1)
        {
-    	   if(t != 1)
-    	   {
-    		   t = 1;
-    		   start_t = msTicks;
-    		   thing = 0;
-    	   }
-    	   end_t = msTicks;
-    	   total_t = ((int)(end_t - start_t))/1000;
-    	   thing ++;
+    	   direction = 2;
        }
        else if (sld == 2)
        {
-    	   if(t != 2)
-    	   {
-    		   t = 2;
-    		   start_t = msTicks;
-			   thing = 0;
-		   }
-		   end_t = msTicks;
-		   total_t = ((int)(end_t - start_t))/1000;
-    	   thing++;
+    	   direction = 2;
        }
        else if (sld == 3)
        {
-    	   if(t != 3)
-    	   {
-    		   t = 3;
-    		   thing = 0;
-    		   start_t = msTicks;
-			   thing = 0;
-		   }
-		   end_t = msTicks;
-		   total_t = ((int)(end_t - start_t))/1000;
-    	   thing++;
+    	   direction = 1;
        }
        else if (sld == 4)
        {
-    	   if(t != 4)
-    	   {
-    		   t = 4;
-    		   thing = 0;
-			   start_t = msTicks;
-			   thing = 0;
-		   }
-		   end_t = msTicks;
-		   total_t = ((int)(end_t - start_t))/1000;
-    	   thing++;
-
+    	   direction = 1;
        }
        else
        {
 
-    	   t=0;
+    	   direction = 0;
        }
        OSMutexPost(&movementmut, OS_OPT_POST_NONE, &err);
        if (temp != 0)
