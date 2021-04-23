@@ -1,5 +1,5 @@
 SystemView/SEGGER_RTT.o: ../SystemView/SEGGER_RTT.c \
- C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/SEGGER_RTT.h \
+ c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\segger_rtt.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\app\mcu_example\slstk3402a_efm32pg12\micriumos_blink\cfg\segger_rtt_conf.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\platform\micrium_os\cpu\include\cpu.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\platform\micrium_os\cpu\include\cpu_def.h \
@@ -73,7 +73,7 @@ SystemView/SEGGER_RTT.o: ../SystemView/SEGGER_RTT.c \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\platform\micrium_os\common\include\toolchains.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\app\mcu_example\slstk3402a_efm32pg12\micriumos_blink\cfg\rtos_err_cfg.h
 
-C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/SEGGER_RTT.h:
+c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\segger_rtt.h:
 
 c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\app\mcu_example\slstk3402a_efm32pg12\micriumos_blink\cfg\segger_rtt_conf.h:
 

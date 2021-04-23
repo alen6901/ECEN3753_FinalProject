@@ -1,10 +1,10 @@
 SystemView/SEGGER_SYSVIEW.o: ../SystemView/SEGGER_SYSVIEW.c \
- C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/SEGGER_SYSVIEW_Int.h \
- C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/SEGGER_SYSVIEW.h \
- C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/SEGGER.h \
- C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/Global.h \
+ c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\segger_sysview_int.h \
+ c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\SEGGER_SYSVIEW.h \
+ c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\SEGGER.h \
+ c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\Global.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\app\mcu_example\slstk3402a_efm32pg12\micriumos_blink\cfg\segger_sysview_conf.h \
- C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/SEGGER_SYSVIEW_ConfDefaults.h \
+ c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\SEGGER_SYSVIEW_ConfDefaults.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\app\mcu_example\slstk3402a_efm32pg12\micriumos_blink\cfg\segger_rtt_conf.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\platform\micrium_os\cpu\include\cpu.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\platform\micrium_os\cpu\include\cpu_def.h \
@@ -77,19 +77,19 @@ SystemView/SEGGER_SYSVIEW.o: ../SystemView/SEGGER_SYSVIEW.c \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\platform\micrium_os\common\include\lib_def.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\platform\micrium_os\common\include\toolchains.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\app\mcu_example\slstk3402a_efm32pg12\micriumos_blink\cfg\rtos_err_cfg.h \
- C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/SEGGER_RTT.h
+ c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\segger_rtt.h
 
-C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/SEGGER_SYSVIEW_Int.h:
+c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\segger_sysview_int.h:
 
-C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/SEGGER_SYSVIEW.h:
+c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\SEGGER_SYSVIEW.h:
 
-C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/SEGGER.h:
+c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\SEGGER.h:
 
-C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/Global.h:
+c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\Global.h:
 
 c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\app\mcu_example\slstk3402a_efm32pg12\micriumos_blink\cfg\segger_sysview_conf.h:
 
-C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/SEGGER_SYSVIEW_ConfDefaults.h:
+c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\SEGGER_SYSVIEW_ConfDefaults.h:
 
 c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\app\mcu_example\slstk3402a_efm32pg12\micriumos_blink\cfg\segger_rtt_conf.h:
 
@@ -235,4 +235,4 @@ c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\platform\
 
 c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\app\mcu_example\slstk3402a_efm32pg12\micriumos_blink\cfg\rtos_err_cfg.h:
 
-C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/SEGGER_RTT.h:
+c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\segger_rtt.h:

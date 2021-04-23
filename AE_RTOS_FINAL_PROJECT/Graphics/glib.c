@@ -30,7 +30,7 @@
  *  GLIB_DEFAULT_FONT macro that points to a @ref GLIB_Font_t structure
  *  that should be used as a default font. */
 //#ifndef GLIB_NO_DEFAULT_FONT
-#define GLIB_DEFAULT_FONT       ((GLIB_Font_t *)&GLIB_FontNormal8x8)
+#define GLIB_DEFAULT_FONT       ((GLIB_Font_t *)&GLIB_FontNormal8x8) //GLIB_FontNormal8x8
 //#endif
 
 /**

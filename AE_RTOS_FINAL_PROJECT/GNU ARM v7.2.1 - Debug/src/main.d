@@ -81,13 +81,11 @@ src/main.o: ../src/main.c \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\platform\middleware\glib\em_types.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\hardware\kit\common\drivers\displayconfigall.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\hardware\kit\slstk3402a_efm32pg12\config\displaypalconfig.h \
- c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\hardware\kit\slstk3402a_efm32pg12\config\displayconfig.h \
+ C:\Users\messa\SimplicityStudio\v4_workspace\AE_RTOS_LAB7_SR\external_copied_files_inc/displayconfig.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\app\mcu_example\slstk3402a_efm32pg12\touch\displayconfigapp.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\hardware\kit\slstk3402a_efm32pg12\config\displayls013b7dh03config.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\hardware\kit\common\drivers\displayls013b7dh03.h \
- c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\hardware\kit\slstk3402a_efm32pg12\config\displayls013b7dh03config.h \
- c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\hardware\kit\slstk3402a_efm32pg12\config\textdisplayconfig.h \
- c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\hardware\kit\slstk3402a_efm32pg12\config\displayconfig.h \
+ C:\Users\messa\SimplicityStudio\v4_workspace\AE_RTOS_LAB7_SR\external_copied_files/textdisplayconfig.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\hardware\kit\slstk3402a_efm32pg12\config\retargettextdisplayconfig.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\hardware\kit\common\drivers\retargettextdisplay.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\hardware\kit\common\drivers\textdisplay.h \
@@ -123,9 +121,9 @@ src/main.o: ../src/main.c \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\platform\common\inc\sl_status.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\platform\micrium_os\kernel\include\os_trace.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\sample\micriumoskernel\os_trace_events.h \
- C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/SEGGER_SYSVIEW.h \
- C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/SEGGER.h \
- C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/Global.h \
+ c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\segger_sysview.h \
+ c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\SEGGER.h \
+ c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\Global.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\app\mcu_example\slstk3402a_efm32pg12\micriumos_blink\cfg\os_cfg_trace.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\platform\micrium_os\kernel\include\os_port_sel.h
 
@@ -297,7 +295,7 @@ c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\hardware\
 
 c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\hardware\kit\slstk3402a_efm32pg12\config\displaypalconfig.h:
 
-c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\hardware\kit\slstk3402a_efm32pg12\config\displayconfig.h:
+C:\Users\messa\SimplicityStudio\v4_workspace\AE_RTOS_LAB7_SR\external_copied_files_inc/displayconfig.h:
 
 c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\app\mcu_example\slstk3402a_efm32pg12\touch\displayconfigapp.h:
 
@@ -305,11 +303,7 @@ c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\hardware\
 
 c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\hardware\kit\common\drivers\displayls013b7dh03.h:
 
-c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\hardware\kit\slstk3402a_efm32pg12\config\displayls013b7dh03config.h:
-
-c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\hardware\kit\slstk3402a_efm32pg12\config\textdisplayconfig.h:
-
-c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\hardware\kit\slstk3402a_efm32pg12\config\displayconfig.h:
+C:\Users\messa\SimplicityStudio\v4_workspace\AE_RTOS_LAB7_SR\external_copied_files/textdisplayconfig.h:
 
 c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\hardware\kit\slstk3402a_efm32pg12\config\retargettextdisplayconfig.h:
 
@@ -381,11 +375,11 @@ c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\platform\
 
 c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\sample\micriumoskernel\os_trace_events.h:
 
-C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/SEGGER_SYSVIEW.h:
+c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\segger_sysview.h:
 
-C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/SEGGER.h:
+c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\SEGGER.h:
 
-C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/Global.h:
+c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\Global.h:
 
 c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\app\mcu_example\slstk3402a_efm32pg12\micriumos_blink\cfg\os_cfg_trace.h:
 

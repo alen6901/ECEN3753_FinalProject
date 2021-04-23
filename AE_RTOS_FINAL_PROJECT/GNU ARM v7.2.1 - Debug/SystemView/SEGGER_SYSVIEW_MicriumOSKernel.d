@@ -87,9 +87,9 @@ SystemView/SEGGER_SYSVIEW_MicriumOSKernel.o: \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\platform\service\sleeptimer\config\sl_sleeptimer_config.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\platform\common\inc\sl_status.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\sample\micriumoskernel\os_trace_events.h \
- C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/SEGGER_SYSVIEW.h \
- C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/SEGGER.h \
- C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/Global.h \
+ c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\segger_sysview.h \
+ c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\SEGGER.h \
+ c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\Global.h \
  c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\app\mcu_example\slstk3402a_efm32pg12\micriumos_blink\cfg\os_cfg_trace.h
 
 c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\platform\micrium_os\kernel\include\os.h:
@@ -266,10 +266,10 @@ c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\platform\
 
 c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\sample\micriumoskernel\os_trace_events.h:
 
-C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/SEGGER_SYSVIEW.h:
+c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\segger_sysview.h:
 
-C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/SEGGER.h:
+c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\SEGGER.h:
 
-C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\SEGGER/Global.h:
+c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\util\third_party\segger\systemview\segger\Global.h:
 
 c:\siliconlabs\simplicitystudio\v4\developer\sdks\gecko_sdk_suite\v2.7\app\mcu_example\slstk3402a_efm32pg12\micriumos_blink\cfg\os_cfg_trace.h:
